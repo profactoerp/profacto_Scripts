@@ -12,7 +12,7 @@ Für HTML-Templates gibt es parallel das [profacto Templates](https://github.com
 
 ## Dokumentation
 
-Die grundlegende profacto[API-Dokumentation](https://conf.extragroup.de/pages/viewpage.action?pageId=25297229) ist im profacto Handbuch.
+Die grundlegende profacto [API-Dokumentation](https://conf.extragroup.de/pages/viewpage.action?pageId=25297229) ist im profacto Handbuch.
 
 ## Resourcen
 

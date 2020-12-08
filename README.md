@@ -17,3 +17,7 @@ Die grundlegende profacto[API-Dokumentation](https://conf.extragroup.de/pages/vi
 ## Resourcen
 
 Über die obige Dokumenation gibt es auch die Möglichkeit eine Entwicklungsumgebung zu erhalten.
+
+## Beteiligung
+
+profacto Anwender und Entwickler, die für profacto Apps erstellen, sind herzlich willkommen hier auch eigene Scripte  bereitszustellen und so mit anderen zu teilen.
